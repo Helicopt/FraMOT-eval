@@ -1,0 +1,6 @@
+[submodule "senseToolkit"]
+	path = senseToolkit
+	url = ./senseToolkit
+[submodule "TrackEval"]
+	path = TrackEval
+	url = ./TrackEval
