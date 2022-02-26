@@ -1,6 +1,6 @@
 [submodule "senseToolkit"]
 	path = senseToolkit
-	url = ./senseToolkit
+	url = https://github.com/Helicopt/senseToolkit.git
 [submodule "TrackEval"]
 	path = TrackEval
-	url = ./TrackEval
+	url = https://github.com/JonathonLuiten/TrackEval.git
